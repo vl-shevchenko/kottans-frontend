@@ -2,11 +2,11 @@
 
 
 
-# Git, GitHub, git flow 
+## Git, GitHub, git flow 
 
 1. Ознайомився з Git та GitHub
 2. Зробив pull-request
 
 
 
-# Linux CLI, and HTTP
+## Linux CLI, and HTTP
