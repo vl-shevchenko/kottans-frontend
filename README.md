@@ -1,2 +1,7 @@
 # kottans-frontend
-Привіт, мене звати Влад. І я в захваті від цього курсу.
+
+
+# Git, GitHub, git flow 
+
+1. Ознайомився з Git та GitHub
+2. Зробив pull-request
