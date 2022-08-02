@@ -3,7 +3,7 @@
 ### General
 - [x] 0. [Git Basics](tasks/git-intro.md)
 - [x] 1. [Linux CLI and Networking](tasks/linux-cli-http.md)
-- [ ] 2. [VCS (hello gitty), GitHub and Collaboration](tasks/git-collaboration.md)
+- [ ] 2. [Git для командної співпраці](tasks/git-collaboration.md)
 
 ### Front-End Basics
 - [ ] 3. [Intro to HTML & CSS](tasks/html-css-intro.md)
