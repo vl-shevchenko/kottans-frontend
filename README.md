@@ -25,6 +25,20 @@
 
 ## Git, GitHub, git flow 
 
+<details>
+  <summary>Git commands</summary>
+  
+  `git commit -a` Stages files automatically <br>
+  `git log -p` Produces patch text <br>
+  `git show` Shows various objects <br>
+  `git diff` Is similar to the Linux `diff` command, and can show the differences in various commits <br>
+  `git diff --staged` An alias to --cached, this will show all staged files compared to the named commit <br>
+  `git add -p` Allows a user to interactively review patches to add to the current commit <br>
+  `git mv` Similar to the Linux `mv` command, this moves a file <br>
+  `git rm` Similar to the Linux `rm` command, this deletes, or removes a file <br>
+  
+</details>
+
 1. Ознайомився з Git та GitHub
 2. Зробив pull-request
 
