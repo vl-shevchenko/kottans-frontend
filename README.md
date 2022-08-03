@@ -38,6 +38,15 @@
   `git rm` Similar to the Linux `rm` command, this deletes, or removes a file <br>
   `git revert` A new commit is created with inverse changes. This cancels previous changes instead of making it as though the original commit never happened <br>
   `git checkout -b NAME` Creates a new branch and switches to it <br>
+  `git branch` Used to manage branches <br>
+  `git branch <name>` Creates the branch <br>
+  `git branch -d <name>` Deletes the branch <br>
+  `git branch -D <name>` Forcibly deletes the branch <br>
+  `git checkout <branch>` Switches to a branch <br>
+  `git checkout -b <branch>` Creates a new branch and switches to it <br>
+  `git merge <branch>` Merge joins branches together <br>
+  `git merge --abort` If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action <br>
+  `git log --graph --oneline` This shows a summarized view of the commit history for a repo <br>
   
 </details>
 
