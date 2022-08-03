@@ -37,6 +37,7 @@
   `git mv` Similar to the Linux `mv` command, this moves a file <br>
   `git rm` Similar to the Linux `rm` command, this deletes, or removes a file <br>
   `git revert` A new commit is created with inverse changes. This cancels previous changes instead of making it as though the original commit never happened <br>
+  `git checkout -b NAME` Creates a new branch and switches to it <br>
   
 </details>
 
