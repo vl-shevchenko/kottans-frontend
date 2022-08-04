@@ -47,6 +47,9 @@
   `git merge <branch>` Merge joins branches together <br>
   `git merge --abort` If there are merge conflicts (meaning files are incompatible), --abort can be used to abort the merge action <br>
   `git log --graph --oneline` This shows a summarized view of the commit history for a repo <br>
+  `git clone URL` Git clone is used to clone a remote repository into a local workspace <br>
+  `git push` Git push is used to push commits from your local repo to a remote repo <br>
+  `git pull` Git pull is used to fetch the newest updates from a remote repository <br>
   
 </details>
 
