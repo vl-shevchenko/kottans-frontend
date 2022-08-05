@@ -3,7 +3,7 @@
 ### General
 - [x] 0. Git Basics
 - [x] 1. Linux CLI and Networking
-- [ ] 2. Git для командної співпраці
+- [x] 2. Git Collaboration
 
 ### Front-End Basics
 - [ ] 3. Intro to HTML & CSS
@@ -75,3 +75,18 @@
 
 2. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1
 3. HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2
+
+## Git Collaboration
+
+1. Прослухаd тижні 3 і 4 курсу Introduction to Git and GitHub
+2. Пройijd наступні рівні learngitbranching.js.org:
+        - Основи: Їдемо далі, Переміщуємо роботу туди-сюди
+        - Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
+        
+<details>
+  <summary>Screenshot</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_git_collaboration/Foundations.JPG)
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_git_collaboration/origin_pushandpull.JPG)
+  
+ </details>  
