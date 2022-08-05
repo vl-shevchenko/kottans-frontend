@@ -79,9 +79,9 @@
 ## Git Collaboration
 
 1. Прослухаd тижні 3 і 4 курсу Introduction to Git and GitHub
-2. Пройijd наступні рівні learngitbranching.js.org:
-        - Основи: Їдемо далі, Переміщуємо роботу туди-сюди
-        - Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes
+2. Пройijd наступні рівні learngitbranching.js.org: <br>
+        - Основи: Їдемо далі, Переміщуємо роботу туди-сюди <br>
+        - Віддалені репозиторії: Через origin – до зірок. Прогресивне використання Git Remotes <br>
         
 <details>
   <summary>Screenshot</summary>
