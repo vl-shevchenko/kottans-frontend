@@ -90,3 +90,14 @@
   ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_git_collaboration/origin_pushandpull.JPG)
   
  </details>  
+  
+## Intro to HTML and CSS
+ 
+ 1. Intro to HTML & CSS: 
+  <details>
+  <summary>Screenshot</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_html_css_intro/week1.JPG)
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_html_css_intro/week2.jpg)
+  
+ </details> 
