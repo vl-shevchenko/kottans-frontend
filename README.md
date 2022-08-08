@@ -6,7 +6,7 @@
 - [x] 2. Git Collaboration
 
 ### Front-End Basics
-- [ ] 3. Intro to HTML & CSS
+- [x] 3. Intro to HTML & CSS
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
