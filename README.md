@@ -101,3 +101,19 @@
   ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_html_css_intro/week2.jpg)
   
  </details> 
+ 
+ 2. Learn HTML(Eng)
+  <details>
+  <summary>Screenshot</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_html_css_intro/html.jpg)
+  
+ </details> 
+ 
+  3. Learn CSS(Eng)
+  <details>
+  <summary>Screenshot</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_html_css_intro/css.jpg)
+  
+ </details> 
