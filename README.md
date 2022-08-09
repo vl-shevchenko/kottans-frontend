@@ -117,3 +117,16 @@
   ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_html_css_intro/css.jpg)
   
  </details> 
+ 
+ ## Responsive Web Design
+  <details>
+  <summary>List</summary>
+  
+  - [ ] 1. Responsive web design basics
+  - [ ] 2. FLEXBOX. Вчимося верстати на флексах
+  - [ ] 3. Flexbox Froggy - гра для закріплення
+  - [ ] 4. CSS Grid Layout
+  - [ ] 5. Grid Garden - гра для закріплення
+  
+  </details>
+ 
