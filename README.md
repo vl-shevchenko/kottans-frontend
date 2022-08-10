@@ -127,7 +127,7 @@
   <details>
   <summary>Screenshot</summary>
   
-  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_responsive_web_design/flexBox%20froggy.jpg)
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_responsive_web_design/flexBox_froggy.jpg)
   
   </details>
     
@@ -137,7 +137,7 @@
    <details>
   <summary>Screenshot</summary>
   
-  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.jpg)
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_responsive_web_design/grid_garden.jpg)
   
  </details> 
   
