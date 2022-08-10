@@ -119,16 +119,31 @@
  </details> 
  
  ## Responsive Web Design
+    
+  - [x] 1. Responsive web design basics
+  - [x] 2. FLEXBOX. Вчимося верстати на флексах
+  - [x] 3. Flexbox Froggy - гра для закріплення
+    
   <details>
-  <summary>List</summary>
+  <summary>Screenshot</summary>
   
-  - [ ] 1. Responsive web design basics
-  - [ ] 2. FLEXBOX. Вчимося верстати на флексах
-  - [ ] 3. Flexbox Froggy - гра для закріплення
-  - [ ] 4. CSS Grid Layout
-  - [ ] 5. Grid Garden - гра для закріплення
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_responsive_web_design/flexBox%20froggy.jpg)
   
   </details>
+    
+  - [x] 4. CSS Grid Layout
+  - [x] 5. Grid Garden - гра для закріплення
+   
+   <details>
+  <summary>Screenshot</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_responsive_web_design/grid%20garden.jpg)
+  
+ </details> 
+  
+ 
+ <details>
+  <summary>FlexBox</summary>
  
   `viewport` - Метатег viewport дает браузеру инструкции по управлению размерами и масштабированием страницы. <br>
   `width=device-width` - Значение метатега viewport width=device-width предписывает странице соответствовать ширине экрана в аппаратно-независимых пикселях. <br>
@@ -173,6 +188,8 @@
   <br>
   **flex-flow** = `flex-direction` + `flex-wrap`<br>
   <br>
-   `align-content` отвечает за расстояние между рядами, в то время как `align-items` отвечает за то, как элементы в целом будут выровнены в контейнере. Когда только один ряд, `align-content` ни на что не влияет.
+   >`align-content` отвечает за расстояние между рядами, в то время как `align-items` отвечает за то, как элементы в целом будут выровнены в контейнере. Когда только один ряд, `align-content` ни на что не влияет.
   <br>
+  
+  </details>
   
