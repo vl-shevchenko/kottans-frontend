@@ -7,8 +7,8 @@
 
 ### Front-End Basics
 - [x] 3. Intro to HTML & CSS
-- [ ] 4. Responsive Web Design
-- [ ] 5. HTML & CSS Practice
+- [x] 4. Responsive Web Design
+- [x] 5. HTML & CSS Practice
 - [ ] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
 
@@ -193,3 +193,10 @@
   
   </details>
   
+  
+  ## HTML-CSS-Popup
+Цікаве завдання. Отримав задоволення від практики.<br>
+Довелося багато інформації перечитати. Найпроблемніший момент був з `<input>` :octocat:
+
+[Demo](https://vl-shevchenko.github.io/popup/) |
+[Code base](https://github.com/vl-shevchenko/popup)
