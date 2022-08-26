@@ -304,6 +304,28 @@ console.log(myVar);
       console.log(`Элемент ${item} имеет индекс ${index}`);
  })
  ```
+ **Function:**
+ ```js
+ function calculateSum(x, y) {
+    let result = x + y;
+    return result;
+ }
+ let answer = calculateSum(5, 10);
+ console.log(answer);     //15
+ ```
+ Функції можна передавати як аргумент в інші функції. Приклад:
+  ```js
+ function calculateSum(x, y) {
+    let result = x + y;
+    return result;
+ }
+ let res = calculateSum(calculateSum(20, 10), calculateSum(30, 40));      //це спрацює, томущо є "return result;" у функції
+ console.log(res); //100
  
- 
+ /*можна замість "let res =..." та "console.log(res);"
+ написати однією строчкою:
+ console.log(calculateSum(calculateSum(20, 10), calculateSum(30, 40)));*/
+ ```
+
+
 </details>
