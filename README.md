@@ -327,5 +327,36 @@ console.log(myVar);
  console.log(calculateSum(calculateSum(20, 10), calculateSum(30, 40)));*/
  ```
 
-
 </details>
+
+  <details>
+  <summary>Basic JavaScript</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_js_basics/Screenshot%202022-08-29%20131832.jpg)
+  
+ </details>
+   <details>
+  <summary>ES6 Challenges</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_js_basics/ES6%20Challenges.jpg)
+  
+ </details>
+    <details>
+  <summary>Basic Data Structures</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_js_basics/Basic%20Data%20Structures.jpg)
+  
+ </details>
+     <details>
+  <summary>Functional Programming</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_js_basics/Functional%20Programming.jpg)
+  
+ </details>
+      <details>
+  <summary>Algorithm Scripting Challenges</summary>
+  
+  ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_js_basics/Algorithm%20Scripting%20Challenges.jpg)
+  
+ </details>
+ 
