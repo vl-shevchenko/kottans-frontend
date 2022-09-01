@@ -9,7 +9,7 @@
 - [x] 3. Intro to HTML & CSS
 - [x] 4. Responsive Web Design
 - [x] 5. HTML & CSS Practice
-- [ ] 6. JavaScript Basics
+- [x] 6. JavaScript Basics
 - [ ] 7. Document Object Model - practice
 
 ### Advanced Topics
