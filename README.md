@@ -366,7 +366,8 @@ console.log(myVar);
 
 [Demo](https://vl-shevchenko.github.io/dom/) |
 [Code base](https://github.com/vl-shevchenko/dom)
-
+  
+<details>
 <summary>Algorithm Scripting Challenges12-18</summary>
   
   ![Screenshot](https://github.com/vl-shevchenko/kottans-frontend/blob/main/task_js_dom/Algorithm%20Scripting%20Challenges%2012-18.jpg)
