@@ -374,7 +374,7 @@ console.log(myVar);
   
  </details>
  
-##Building a Tiny JS World
+## Building a Tiny JS World
 :octocat:
 
 [Demo](https://vl-shevchenko.github.io/a-tiny-JS-world/) |
