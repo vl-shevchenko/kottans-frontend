@@ -374,3 +374,8 @@ console.log(myVar);
   
  </details>
  
+##Building a Tiny JS World
+:octocat:
+
+[Demo](https://vl-shevchenko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/vl-shevchenko/a-tiny-JS-world)
