@@ -379,3 +379,8 @@ console.log(myVar);
 
 [Demo](https://vl-shevchenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/vl-shevchenko/a-tiny-JS-world)
+
+## OOP exercise
+
+[Demo](https://vl-shevchenko.github.io/a-tiny-JS-world/) |
+[Code base](https://github.com/vl-shevchenko/a-tiny-JS-world)
