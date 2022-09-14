@@ -10,12 +10,12 @@
 - [x] 4. Responsive Web Design
 - [x] 5. HTML & CSS Practice
 - [x] 6. JavaScript Basics
-- [ ] 7. Document Object Model - practice
+- [x] 7. Document Object Model - practice
 
 ### Advanced Topics
-- [ ] 8. Building a Tiny JS World (pre-OOP) - practice
-- [ ] 9. Object oriented JS - practice
-- [ ] 10. OOP exercise - practice
+- [x] 8. Building a Tiny JS World (pre-OOP) - practice
+- [x] 9. Object oriented JS - practice
+- [x] 10. OOP exercise - practice
 - [ ] 11. Offline Web Applications - optional
 - [ ] 12. Memory pair game — real project!
 - [ ] 13. Website Performance Optimization - optional
@@ -384,3 +384,8 @@ console.log(myVar);
 
 [Demo](https://vl-shevchenko.github.io/a-tiny-JS-world/) |
 [Code base](https://github.com/vl-shevchenko/a-tiny-JS-world)
+
+## Object-Oriented JavaScript
+  **Практика - Classic Frogger Game:** <br>
+[Demo](https://vl-shevchenko.github.io/frontend-nanodegree-arcade-game/) |
+[Code base](https://github.com/vl-shevchenko/frontend-nanodegree-arcade-game/tree/arcade-game)
