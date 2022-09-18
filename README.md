@@ -206,11 +206,18 @@
 <details>
   <summary>JavaScript</summary>
   
-JavaScript надає вісім різних типів data: `undefined`, `null`, `boolean`, `string`, `symbol`, `bigint`, `number` та `object`.<br> 
+JavaScript надає вісім різних типів data: `undefined`, `null`, `boolean`, `string`, `symbol`, `bigint`, `number` та `object`.<br>
+`sumbol` - новий тип. З'явився в ES6.
 Основні типи:<br>
 `string` - рядковий тип. Записується в подвійних або одинарних кавичках.<br>
 `number` - числовий тип. Пишимо без кавичок. Використовуємо цей тип тоді, коли хочемо з даними пряцювати як з числами (виконувати математичні завдання).<br>
 `boolean` - логічний тип даних. Має тільки два можливих значення - **true**(1) i **false**(0). Значення true або false пишуться без кавичок.  <br>
+```js
+//Boolean operators:
+! // logical NOT operaror;
+&& // logical AND operator;
+|| // logical OR operator;
+```
 <br>
 `var` - оголошення змінної (старий варіант)
 ```js
